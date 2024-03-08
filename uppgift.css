@@ -1,0 +1,45 @@
+body{
+
+    background-color: orange;
+    
+}
+h1{
+    background-color: brown;
+}
+h1, #first{
+    color:white;
+}
+
+*{
+
+    border:red 1px solid;
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+
+    height: 300px;
+    width: 300px;
+    opacity: 0.5;
+}
+
+p{
+
+    font-size:25px;
+}
+
+a{
+    display: block;
+}
+
+img:hover{
+
+    opacity: 1;
+}
+
+p:hover{
+
+    color:red;
+    text-transform:uppercase;
+}
